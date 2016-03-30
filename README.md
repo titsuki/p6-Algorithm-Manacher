@@ -10,7 +10,7 @@ SYNOPSIS
 
     use Algorithm::Manacher;
 
-    # "たけたぶやけた" is one of the most famous palindromes in Japan.
+    # "たけやぶやけた" is one of the most famous palindromes in Japan.
     # It means "The bamboo grove was destroyed by a fire." in English.
     my $manacher = Algorithm::Manacher.new(text => "たけやぶやけた");
     $manacher.is-palindrome(); # True
