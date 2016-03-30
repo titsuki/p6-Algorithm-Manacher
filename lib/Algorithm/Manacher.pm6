@@ -86,7 +86,7 @@ Algorithm::Manacher - a perl6 implementation of the extended Manacher's Algorith
   use Algorithm::Manacher;
 
   # "たけたぶやけた" is one of the most famous palindromes in Japan.
-  # It means "the bamboo grove was destroyed by a fire" in English.
+  # It means "The bamboo grove was destroyed by a fire." in English.
   my $manacher = Algorithm::Manacher.new(text => "たけやぶやけた");
   $manacher.is-palindrome(); # True
   $manacher.find-longest-palindrome(); # {"たけやぶやけた" => [0]};
