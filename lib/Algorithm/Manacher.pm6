@@ -79,7 +79,7 @@ method find-longest-palindrome() {
 
 =head1 NAME
 
-Algorithm::Manacher - a perl6 implementation of the extended Manacher's Algorithm for solving longest palindromic substring(i.e. palindrome) problem.
+Algorithm::Manacher - a perl6 implementation of the extended Manacher's Algorithm for solving longest palindromic substring(i.e. palindrome) problem
 
 =head1 SYNOPSIS
 
