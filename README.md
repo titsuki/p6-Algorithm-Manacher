@@ -20,7 +20,7 @@ SYNOPSIS
 DESCRIPTION
 ===========
 
-Algorithm::Manacher is a perl6 implementation of the extended Manacher'a Algorithm for solving longest palindromic substring problem. A palindrome is a sequence which can be read same from left to right and right to left. In the original Manacher's paper [0], his algorithm has some limitations(e.g. couldn't handle a text of even length). Therefore this module employs the extended Manacher's Algorithm in [1], it enables to handle a text of both even and odd length, and compute all palindromes in a given text.
+Algorithm::Manacher is a perl6 implementation of the extended Manacher's Algorithm for solving longest palindromic substring problem. A palindrome is a sequence which can be read same from left to right and right to left. In the original Manacher's paper [0], his algorithm has some limitations(e.g. couldn't handle a text of even length). Therefore this module employs the extended Manacher's Algorithm in [1], it enables to handle a text of both even and odd length, and compute all palindromes in a given text.
 
 CONSTRUCTOR
 -----------
