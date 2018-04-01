@@ -1,5 +1,5 @@
 use v6;
-unit class Algorithm::Manacher;
+unit class Algorithm::Manacher:ver<0.0.1>;
 
 has $!text;
 has %!m;
