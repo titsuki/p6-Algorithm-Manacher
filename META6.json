@@ -5,7 +5,7 @@
   ],
   "build-depends" : [ ],
   "depends" : [ ],
-  "description" : "a perl6 implementation of the extended Manacher's Algorithm for solving longest palindromic substring(i.e. palindrome) problem",
+  "description" : "A perl6 implementation of the extended Manacher's Algorithm for solving longest palindromic substring(i.e. palindrome) problem",
   "license" : "Artistic-2.0",
   "name" : "Algorithm::Manacher",
   "perl" : "6.c",

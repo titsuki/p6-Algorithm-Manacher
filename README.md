@@ -3,7 +3,7 @@
 NAME
 ====
 
-Algorithm::Manacher - a perl6 implementation of the extended Manacher's Algorithm for solving longest palindromic substring(i.e. palindrome) problem
+Algorithm::Manacher - A perl6 implementation of the extended Manacher's Algorithm for solving longest palindromic substring(i.e. palindrome) problem
 
 SYNOPSIS
 ========
