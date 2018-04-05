@@ -1,18 +1,20 @@
 {
-  "name" : "Algorithm::Manacher",
-  "license" : "Artistic-2.0",
-  "source-url" : "git://github.com/titsuki/p6-Algorithm-Manacher.git",
-  "perl" : "6.c",
-  "resources" : [ ],
+  "author" : "cpan:TITSUKI",
+  "authors" : [
+    "Itsuki Toyota"
+  ],
   "build-depends" : [ ],
+  "depends" : [ ],
+  "description" : "a perl6 implementation of the extended Manacher's Algorithm for solving longest palindromic substring(i.e. palindrome) problem",
+  "license" : "Artistic-2.0",
+  "name" : "Algorithm::Manacher",
+  "perl" : "6.c",
   "provides" : {
     "Algorithm::Manacher" : "lib/Algorithm/Manacher.pm6"
   },
-  "depends" : [ ],
-  "description" : "a perl6 implementation of the extended Manacher's Algorithm for solving longest palindromic substring(i.e. palindrome) problem",
+  "resources" : [ ],
+  "source-url" : "git://github.com/titsuki/p6-Algorithm-Manacher.git",
+  "tags" : [ ],
   "test-depends" : [ ],
-  "version" : "*",
-  "authors" : [
-    "titsuki"
-  ]
+  "version" : "0.0.1"
 }

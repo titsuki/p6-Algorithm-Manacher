@@ -68,3 +68,4 @@ This algorithm is from
   * [0] Manacher, Glenn. "A New Linear-Time``On-Line''Algorithm for Finding the Smallest Initial Palindrome of a String." Journal of the ACM (JACM) 22.3 (1975): 346-351.
 
   * [1] Tomohiro, I., et al. "Counting and verifying maximal palindromes." String Processing and Information Retrieval. Springer Berlin Heidelberg, 2010.
+
